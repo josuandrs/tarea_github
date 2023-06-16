@@ -1,0 +1,16 @@
+.card{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 20px 30px rgba(0,0,0 .4);
+    transform-style: preserve-3d;
+    transition: 2s;
+}
+
+.card:hover{
+    transform: translateX(50%);
+}
+
+.card .
