@@ -13,7 +13,7 @@ function Tarjeta() {
         <div className='detalle'>
             <div className='contenido'>
                 <h2 className='titulo'>Machu Picchu</h2>
-                <p className='parrafo'>¡Los Incas nos demostraron que aun las condiciones más difíciles, se pueden hacer maravillas!</p>
+                <p className='parrafo'>¡Los Incas nos demostraron que aun en las condiciones más difíciles, se pueden hacer maravillas!</p>
             </div>
         </div>
     </div>
